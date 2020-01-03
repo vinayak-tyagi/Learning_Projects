@@ -1,14 +1,16 @@
 # Learning_Projects
-These are some of my Machine Learning & Deep Learning Projects. This is NOT a single Project, these are various pojects on following technologies.
-Some of the Projects are fusion of multiple ML and DL models.
+These are some of my Machine Learning & Deep Learning Projects. This is NOT a single Project, these are various pojects on different  technologies. Some of the Projects are fusion of multiple ML and DL models.
 
 ## Libraries used in projects
-### Vizulization
 - Matplotlib
 - seaborn
-
-### 
-
+- pandas
+- sklearn 
+- OpenCV
+- keras with TensorFlow
+- Numpy
+- NLTK
+- Some Inbuilt libraries in Pyhton 
 
 ## Machine Learning Techniques used are
 - Linear Regression
