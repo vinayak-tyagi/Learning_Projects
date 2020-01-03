@@ -10,7 +10,7 @@ These are some of my Machine Learning & Deep Learning Projects. This is NOT a si
 - keras with TensorFlow
 - Numpy
 - NLTK
-- Some Inbuilt libraries in Pyhton 
+- Some Inbuilt libraries in Python 
 
 ## Machine Learning Techniques used are
 - Linear Regression
